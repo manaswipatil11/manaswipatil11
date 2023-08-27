@@ -21,6 +21,7 @@ Welcome to my corner of the coding universe! 🌌 As a passionate data enthusias
 ### 🌍 Let's Connect
 
 📬 You can reach me at patilmanaswi1106@gmail.com
+
 💼 Connect with me on www.linkedin.com/in/data-nerd-manaswi-patil
 
 ### 🌟 Let's Collaborate
