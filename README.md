@@ -12,10 +12,10 @@ Welcome to my corner of the coding universe! 🌌 As a passionate data enthusias
 
 ### 🧰 Toolbox
 
-📊 Data Analysis: Python, Pandas, NumPy <br /><br />
-🤖 Machine Learning: Scikit-Learn, TensorFlow <br /><br />
-📈 Data Visualization: Matplotlib, Seaborn <br /><br />
-📚 Tools: Jupyter Notebook, Git <br /><br />
+📊 Data Analysis: Python, Pandas, NumPy <br />
+🤖 Machine Learning: Scikit-Learn, TensorFlow <br />
+📈 Data Visualization: Matplotlib, Seaborn <br />
+📚 Tools: Jupyter Notebook, Git <br />
 
 
 ### 🌍 Let's Connect
