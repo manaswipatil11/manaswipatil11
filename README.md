@@ -12,17 +12,16 @@ Welcome to my corner of the coding universe! 🌌 As a passionate data enthusias
 
 ### 🧰 Toolbox
 
-📊 Data Analysis: Python, Pandas, NumPy
-🤖 Machine Learning: Scikit-Learn, TensorFlow
-📈 Data Visualization: Matplotlib, Seaborn
-📚 Tools: Jupyter Notebook, Git
+📊 Data Analysis: Python, Pandas, NumPy <br />
+🤖 Machine Learning: Scikit-Learn, TensorFlow <br />
+📈 Data Visualization: Matplotlib, Seaborn <br />
+📚 Tools: Jupyter Notebook, Git <br />
 
 
 ### 🌍 Let's Connect
 
-📬 You can reach me at patilmanaswi1106@gmail.com
-
-💼 Connect with me on www.linkedin.com/in/data-nerd-manaswi-patil
+📬 You can reach me at patilmanaswi1106@gmail.com <br />
+💼 Connect with me on www.linkedin.com/in/data-nerd-manaswi-patil <br />
 
 ### 🌟 Let's Collaborate
 
