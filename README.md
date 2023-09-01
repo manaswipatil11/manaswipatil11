@@ -17,8 +17,9 @@ Welcome to my corner of the coding universe! 🌌 As a passionate data enthusias
 📈 Data Visualization: Matplotlib, Seaborn <br />
 📚 Tools: Jupyter Notebook, Git <br />
 
-### My Recent Blog 📚 <br />
-https://medium.com/@patilmanaswi1106/delving-into-the-magic-of-data-science-a-beginners-guide-de9f90f7975f
+### My Recent Blogs 📚 <br />
+https://medium.com/@patilmanaswi1106/delving-into-the-magic-of-data-science-a-beginners-guide-de9f90f7975f <br />
+https://medium.com/@patilmanaswi1106/a-sneak-peek-of-data-analysis-from-algorithms-to-insights-504a87d43f2a
 
 ### 🌍 Let's Connect
 
