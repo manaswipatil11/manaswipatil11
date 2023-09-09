@@ -25,6 +25,7 @@ https://medium.com/@patilmanaswi1106/a-sneak-peek-of-data-analysis-from-algorith
 
 📬 You can reach me at patilmanaswi1106@gmail.com <br />
 💼 Connect with me on www.linkedin.com/in/data-nerd-manaswi-patil <br />
+📚 Check out my portfolio at https://www.datascienceportfol.io/manaswipatil <br />
 
 ### 🌟 Let's Collaborate
 
