@@ -14,7 +14,7 @@ Welcome to my corner of the coding universe! 🌌 As a passionate data enthusias
 
 📊 Data Analysis: Python, Pandas, NumPy <br />
 🤖 Machine Learning: Scikit-Learn, TensorFlow <br />
-📈 Data Visualization: Matplotlib, Seaborn, Tableau <br />
+📈 Data Visualization: Matplotlib, Seaborn, PowerBI <br />
 📚 Tools: Jupyter Notebook, Git <br />
 
 ### My Recent Blogs 📚 <br />
