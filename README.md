@@ -13,7 +13,7 @@ Welcome to my corner of the coding universe! 🌌 As a passionate data enthusias
 ### 🧰 Toolbox
 
 📊 Data Analysis: Python, Pandas, NumPy <br />
-🤖 Machine Learning: Scikit-Learn, TensorFlow <br />
+🤖 Machine Learning: Scikit-Learn, TensorFlow, Keras <br />
 📈 Data Visualization: Matplotlib, Seaborn, PowerBI <br />
 📚 Tools: Jupyter Notebook, Git <br />
 
