@@ -1,34 +1,41 @@
-## Hey there, I'm Manaswi 👋
 
-Welcome to my corner of the coding universe! 🌌 As a passionate data enthusiast and aspiring data scientist, I'm on a journey to explore the vast realms of data, uncover insights, and translate them into meaningful stories.
+![dataa](https://github.com/user-attachments/assets/0a895bbe-4430-4477-8a7c-9a708dfb84d4)
 
-### 📊 What I'm Up To
+<h1 align="center">Hi 👋, I'm Manaswi</h1>
+<h3 align="center">A data enthusiast and explorer from India.</h3>
 
-🌱 Currently, I'm honing my skills in data analysis, machine learning, and data visualization. I believe that every dataset has a unique tale to tell, and I'm excited to be the storyteller.
-
-🔍 I'm exploring various datasets, from classic titanic data to cutting-edge deep learning challenges. My curiosity knows no bounds when it comes to extracting patterns and extracting insights from data.
-
-🚀 I'm also on the lookout for opportunities to collaborate on open-source projects and real-world data problems. If you have a project in mind or need a data-driven solution, let's connect!
-
-### 🧰 Toolbox
-
-📊 Data Analysis: Python, Pandas, NumPy <br />
-🤖 Machine Learning: Scikit-Learn, TensorFlow, Keras <br />
-📈 Data Visualization: Matplotlib, Seaborn, PowerBI <br />
-📚 Tools: Jupyter Notebook, Git <br />
-
-### My Recent Blogs 📚 <br />
-https://medium.com/@patilmanaswi1106/delving-into-the-magic-of-data-science-a-beginners-guide-de9f90f7975f <br />
-https://medium.com/@patilmanaswi1106/a-sneak-peek-of-data-analysis-from-algorithms-to-insights-504a87d43f2a
-
-### 🌍 Let's Connect
-
-📬 You can reach me at patilmanaswi1106@gmail.com <br />
-💼 Connect with me on www.linkedin.com/in/data-nerd-manaswi-patil <br />
-📚 Check out my portfolio at https://www.datascienceportfol.io/manaswipatil <br />
-
-### 🌟 Let's Collaborate
-
-I'm always up for a challenge and eager to learn from fellow data enthusiasts, scientists, and creators. If you're interested in data-driven discussions, project collaborations, or just a friendly chat about your favorite dataset, feel free to reach out. Let's embark on this data adventure together! 🚀🔍
+![female-data-analyst-animation-download-in-lottie-json-gif-static-svg-file-formats--analytics-logo-chart-analysis-market-computer-programing-pack-people-animations-7980377](https://github.com/user-attachments/assets/b3914c3e-4af1-49af-b4e3-59b2369c9e27)
 
 
+- 🌱 I’m currently learning **Django, AWS**
+
+- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/manaswipatil](https://www.datascienceportfol.io/manaswipatil)
+
+- 📝 I regularly write articles on [https://medium.com/@patilmanaswi1106](https://medium.com/@patilmanaswi1106)
+
+- 💬 Ask me about **Python libraries, ML and DL algorithms and also Books and Poetry.**
+
+- 📫 How to reach me **patilmanaswi1106@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RB9FoD4RUyzmS5PTwoS-qMRBazo0rXqQ/view?usp=sharing](https://drive.google.com/file/d/1RB9FoD4RUyzmS5PTwoS-qMRBazo0rXqQ/view?usp=sharing)
+
+- ⚡ Fun fact **When I'm not coding, you might find me writing poetry or reviewing books on YouTube.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/manaswipatil11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manaswipatil11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/data-nerd-manaswi-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="data-nerd-manaswi-patil" height="30" width="40" /></a>
+<a href="https://kaggle.com/manaswibpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manaswibpatil" height="30" width="40" /></a>
+<a href="https://instagram.com/manaswipatil11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manaswipatil11" height="30" width="40" /></a>
+<a href="https://medium.com/@patilmanaswi1106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@patilmanaswi1106" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rhymesandreviews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rhymesandreviews" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manaswipatil11&show_icons=true&locale=en&layout=compact" alt="manaswipatil11" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manaswipatil11&show_icons=true&locale=en" alt="manaswipatil11" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manaswipatil11&" alt="manaswipatil11" /></p>
