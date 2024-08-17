@@ -1,11 +1,7 @@
 
-![dataa](https://github.com/user-attachments/assets/0a895bbe-4430-4477-8a7c-9a708dfb84d4)
 
 <h1 align="center">Hi 👋, I'm Manaswi</h1>
 <h3 align="center">A data enthusiast and explorer from India.</h3>
-
-![female-data-analyst-animation-download-in-lottie-json-gif-static-svg-file-formats--analytics-logo-chart-analysis-market-computer-programing-pack-people-animations-7980377](https://github.com/user-attachments/assets/b3914c3e-4af1-49af-b4e3-59b2369c9e27)
-
 
 - 🌱 I’m currently learning **Django, AWS**
 
