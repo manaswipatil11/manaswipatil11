@@ -38,8 +38,15 @@ Medium@patilmanaswi1106</a><br>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-<code> <img height="50" src="https://github.com/divyanshojha99/PICBOX/blob/main/php-web-programming-language-line-icon-php-web-programming-language-line-icon-linear-style-sign-mobile-concept-web-design-177562144.jpg?raw=true"> </code>
-<code> <img height="50" src="https://github.com/divyanshojha99/PICBOX/blob/main/kali.png?raw=true"> </code></p>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"> </code>  
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> </code>
+</p>
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status">&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"></p>
