@@ -78,3 +78,11 @@ Medium@patilmanaswi1106</a><br>
 <hr>
 <hr>
 <p>Credits: <a href="https://github.com/manaswipatil11">Manaswi Patil</a></p> 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/manaswipatil11/manaswipatil11/output/snake.svg" alt="Snake animation" />
+
+###
