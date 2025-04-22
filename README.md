@@ -26,7 +26,7 @@
 <p>
 ✔ I’m currently Developing <strong>JARVIS</strong>(Speech Recognithion, NLP, Text-to-Speech)<br>
 ✔ I’m currently learning <strong>Deep Reinforcement Learning</strong> &amp; <strong>Tailwind CSS</strong><br>
-✔ Sometimes I write blog articles, Check out on <a href="https://medium.com/@patilmanaswi1106" target="blank"><img align="" src="https://github.com/manaswipatil11/PICBOX/blob/main/medium.png?raw=true" alt="Manaswi" height="25" width="36"></a><br>
+✔ Sometimes I write blog articles, Check out on <a href="https://medium.com/@patilmanaswi1106" target="blank"><img align="" src="[https://github.com/manaswipatil11/PICBOX/blob/main/medium.png?raw=true](https://img.icons8.com/?size=100&id=BzFWSIqh6bCr&format=png&color=000000)" alt="Manaswi" height="25" width="36"></a><br>
 ✔ Inner Fact : <em>When I'm not keen into data, you find me penning poetries or doodling, Peep into my Instagram-page</em><a href="https://www.instagram.com/manaswipatil11/" target="blank"><img align="" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Manaswi" height="25" width="36"></a><br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br></p>
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Languages &amp; Tools I Know…</strong></em></p>
