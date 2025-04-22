@@ -44,7 +44,8 @@ Medium@patilmanaswi1106</a><br>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status">&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"></p>
 <p><a href="https://github.com/divyanshojha99"><img alt="Manaswi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=manaswipatil11&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" height="192px"></a>
-<a href="https://github.com/manaswipatil11"><img alt="Manaswi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaswipatil11&amp;hide=ASP.NET,Jupyter Notebook&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=151515&amp;title_color=fff&amp;icon_color=79ff97" height="192px"></a></p>
+<a href="https://github.com/manaswipatil11"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manaswipatil11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</a></p>
 <hr>
 <p>Here are some <a href="https://cultofthepartyparrot.com">🦜 parrots</a>😂:</p>
 <div>
