@@ -44,8 +44,9 @@ Medium@patilmanaswi1106</a><br>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </code>
 </p>
   <hr>
   <p align="center">
