@@ -28,7 +28,7 @@
 ✔ I’m currently learning <strong>Deep Reinforcement Learning</strong> &amp; <strong>Tailwind CSS</strong><br>
 ✔ Sometimes I write blog articles, Check out on <a href="https://medium.com/@patilmanaswi1106" target="blank">
 <path d="M8.5 7A8.5 8.5 0 108.5 24 8.5 8.5 0 108.5 7zM22 8A4 7.5 0 1022 23 4 7.5 0 1022 8zM28.5 9A1.5 6.5 0 1028.5 22 1.5 6.5 0 1028.5 9z"></path>
-</svg>" alt="Manaswi" height="25" width="36"></a><br>
+</a><br>
 ✔ Inner Fact : <em>When I'm not keen into data, you find me penning poetries or doodling, Peep into my Instagram-page</em><a href="https://www.instagram.com/manaswipatil11/" target="blank">></a><br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br></p>
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Languages &amp; Tools I Know…</strong></em></p>
