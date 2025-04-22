@@ -43,7 +43,9 @@ Medium@patilmanaswi1106</a><br>
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status">&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"></p>
-<p><a href="https://github.com/divyanshojha99"><img alt="Manaswi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=manaswipatil11&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" height="192px"></a>
+<p><a href="https://github.com/manaswipatil11">
+  <img src="https://github-readme-stats.vercel.app/api?username=manaswipatil11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</a>
 <a href="https://github.com/manaswipatil11"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manaswipatil11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </a></p>
 <hr>
