@@ -1,16 +1,14 @@
 
 <hr>
-<h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Manaswi Patil</h1>
-<h3 align="center">DATA Enthusiast || AI &amp; ML Aficionado </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/manaswipatil11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrohere" height="30" width="40"></a>
 <a href="https://www.instagram.com/manaswipatil11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Manaswi" height="30" width="40"></a>
 <a href="https://www.hackerrank.com/manaswipatil0306" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Manaswi" height="30" width="40"></a>
 <a href="mailto: pmanaswi144@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"></a>
 </p>
-<h2 align="center">👋 Hi, I'm Manaswi Basavraj Patil</h2>
+<h2 align="center">👋 Hello, I'm Manaswi Patil</h2>
 <p align="center">
-  🎓 Senior Undergraduate | Aspiring Researcher in AI, IoT & Image Processing <br>
+  🎓 Senior Undergraduate | Aspiring Researcher in AI, ML & Image Processing <br>
   💡 Passionate about building intelligent systems that solve real-world problems <br>
   🚀 Always learning, experimenting, and growing through research & innovation
 </p>
@@ -18,7 +16,7 @@
 ---
 
 ### 🌟 About Me  
-I am an AI, Embedded Systems, and IoT enthusiast with a strong interest in applying machine learning to solve impactful problems.  
+I am an AI enthusiast with a strong interest in applying machine learning to solve impactful problems.  
 My journey began with curiosity-driven projects and has grown into a passion for **research-driven innovation**. I love working at the intersection of **deep learning, computer vision, and intelligent systems** — developing solutions that can make technology more accessible and meaningful.  
 
 - 🔬 Currently working on **Real-Time Queue Detection & Management** using YOLO-V8.  
@@ -36,7 +34,6 @@ My journey began with curiosity-driven projects and has grown into a passion for
   - Artificial Intelligence (ML/DL, Reinforcement Learning)  
   - Computer Vision & Image Processing  
   - Natural Language Processing & Speech Technologies  
-  - IoT & Embedded Systems  
 - **Other Tools:** Git/GitHub, PowerBI, Data Visualization, Cloud Platforms  
 
 ---
@@ -44,8 +41,7 @@ My journey began with curiosity-driven projects and has grown into a passion for
 ### 📌 Featured Projects  
 - 🧠 **Real-Time Queue Detection & Management System** – Queue length analytics using YOLO-V8 for public areas.  
 - 🩺 **AI-Driven Skin Disease Detection** – Early diagnosis support system using CNNs and YOLO.  
-- 🔋 **Solar Power Modeling & BESS** – Optimized energy storage with pvlib and weather station data.  
-- 🛩️ **Drone-Based Accident Detection & Rescue System** – Real-time detection for emergency response.  
+- 🔋 **Solar Power Modeling & BESS** – Optimized energy storage with pvlib and weather station data.    
 - 🎵 **Music App (React)** – User-friendly interface for playlist creation and music streaming.  
 
 ---
