@@ -8,28 +8,58 @@
 <a href="https://www.hackerrank.com/manaswipatil0306" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Manaswi" height="30" width="40"></a>
 <a href="mailto: pmanaswi144@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"></a>
 </p>
-<p></p>
+<h2 align="center">👋 Hi, I'm Manaswi Basavraj Patil</h2>
 <p align="center">
-  <em>
-    Manaswi here, a <b>Senior</b> undergraduate from <a href="https://presidencyuniversity.in/"> <b>Presidency University</b>,Bengaluru </a>. <br>
-    A budding <b>AI-ML Engineer &amp; DATA analyst,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and also a <b>Embedded Systems Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp;.
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <b>𝒮𝓅𝑜𝑜𝓃 𝒻𝑒𝑒𝒹𝒾𝓃𝑔 𝒾𝓃 𝓉𝒽𝑒 𝓁𝑜𝓃𝑔 𝓇𝓊𝓃 𝓉𝑒𝒶𝒸𝒽𝑒𝓈 𝓊𝓈 𝓃𝑜𝓉𝒽𝒾𝓃𝑔 𝒷𝓊𝓉 𝓉𝒽𝑒 𝓈𝒽𝒶𝓅𝑒 𝑜𝒻 𝓉𝒽𝑒 𝓈𝓅𝑜𝑜𝓃...</b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
+  🎓 Senior Undergraduate | Aspiring Researcher in AI, IoT & Image Processing <br>
+  💡 Passionate about building intelligent systems that solve real-world problems <br>
+  🚀 Always learning, experimenting, and growing through research & innovation
 </p>
-<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>LITTLE ABOUT MYSELF❤️</strong></em></p>
-<p>
-✔ I’m currently Developing <strong>JARVIS</strong>(Speech Recognithion, NLP, Text-to-Speech)<br>
-✔ I’m currently learning <strong>Deep Reinforcement Learning</strong> &amp; <strong>Tailwind CSS</strong><br>
-✔ Sometimes I write blog articles, Check out on <a href="https://medium.com/@patilmanaswi1106" target="blank">
-<path d="M8.5 7A8.5 8.5 0 108.5 24 8.5 8.5 0 108.5 7zM22 8A4 7.5 0 1022 23 4 7.5 0 1022 8zM28.5 9A1.5 6.5 0 1028.5 22 1.5 6.5 0 1028.5 9z"></path>
-Medium@patilmanaswi1106</a><br>
-✔ Inner Fact : <em>When I'm not keen into data, you find me penning poetries or doodling, Peep into my Instagram-page</em><a href="https://www.instagram.com/manaswipatil11/" target="blank">Instagram@manaswipatil11</a><br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br></p>
+
+---
+
+### 🌟 About Me  
+I am an AI, Embedded Systems, and IoT enthusiast with a strong interest in applying machine learning to solve impactful problems.  
+My journey began with curiosity-driven projects and has grown into a passion for **research-driven innovation**. I love working at the intersection of **deep learning, computer vision, and intelligent systems** — developing solutions that can make technology more accessible and meaningful.  
+
+- 🔬 Currently working on **Real-Time Queue Detection & Management** using YOLO-V8.  
+- ⚡ Research experience in **Solar Power Modeling & Battery Energy Storage Systems** (pvlib + weather data).  
+- 🤖 Exploring **Deep Reinforcement Learning**, **Speech Recognition**, and **IoT-based systems**.  
+- 📝 I share insights & thoughts on [Medium](https://medium.com/@patilmanaswi1106).  
+- 🎨 Outside academics, I enjoy writing **poetry** and creating **doodles** → [Instagram](https://www.instagram.com/manaswipatil11/).  
+
+---
+
+### 🛠️ Skills & Tools  
+- **Programming:** Python, Java, C/C++, JavaScript  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, YOLO, Flask, Spring MVC, React  
+- **Domains of Interest:**  
+  - Artificial Intelligence (ML/DL, Reinforcement Learning)  
+  - Computer Vision & Image Processing  
+  - Natural Language Processing & Speech Technologies  
+  - IoT & Embedded Systems  
+- **Other Tools:** Git/GitHub, PowerBI, Data Visualization, Cloud Platforms  
+
+---
+
+### 📌 Featured Projects  
+- 🧠 **Real-Time Queue Detection & Management System** – Queue length analytics using YOLO-V8 for public areas.  
+- 🩺 **AI-Driven Skin Disease Detection** – Early diagnosis support system using CNNs and YOLO.  
+- 🔋 **Solar Power Modeling & BESS** – Optimized energy storage with pvlib and weather station data.  
+- 🛩️ **Drone-Based Accident Detection & Rescue System** – Real-time detection for emergency response.  
+- 🎵 **Music App (React)** – User-friendly interface for playlist creation and music streaming.  
+
+---
+
+### 🌱 What Drives Me  
+I believe technology should go beyond performance metrics — it should solve **real problems** and **improve lives**.  
+My goal is to contribute to research in **AI-driven intelligent systems, multimedia processing, and IoT applications**, while pursuing graduate studies and beyond.  
+
+---
+
+<p align="center">
+  <em>"Innovation is not about adding complexity, but about creating meaningful simplicity."</em>
+</p>
+
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Languages &amp; Tools I Know…</strong></em></p>
 <p align="left">
 </p><p><code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </code>
